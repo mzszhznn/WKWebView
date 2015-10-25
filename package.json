@@ -1,11 +1,11 @@
 {
-    "version": "0.6.5",
-    "name": "cordova-plugin-wkwebview",
-    "cordova_name": "WKWebView Polyfill",
+    "version": "0.6.6",
+    "name": "cordova-plugin-ibwkwebview2",
+    "cordova_name": "Ibuildings WKWebView Polyfill",
     "description": "A drop-in replacement of UIWebView for boosted performance and enhanced HTML5 support",
     "license": "MIT",
-    "repo": "https://github.com/Telerik-Verified-Plugins/WKWebView.git",
-    "issue": "https://github.com/Telerik-Verified-Plugins/WKWebView/issues",
+    "repo": "https://github.com/IbuildingsItaly/WKWebView.git",
+    "issue": "https://github.com/IbuildingsItaly/WKWebView/issues",
     "keywords": [
         "Webkit",
         "Webkit webview",
